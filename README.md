@@ -4,3 +4,4 @@
 
 ## reference
 - https://www.cloudflare.com/learning/cdn/glossary/anycast-network/
+- https://www.cloudflare.com/learning/network-layer/what-is-routing/
